@@ -1,9 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import background
-from code.Const import  WIN_WIDTH
+from code.const import  WIN_WIDTH
 
-from code.Background import Background
+from code.background import Background
 
 
 class EntityFactory:

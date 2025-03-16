@@ -4,7 +4,7 @@ C_WHITE = (255, 255, 255)
 C_YELLOW = (255, 255, 128)
 
 # E
-Entity_SPEED = {
+ENTITY_SPEED = {
     'Level1Bg0': 0,
     'Level1Bg1': 1,
     'Level1Bg2': 2,
